@@ -1,0 +1,10 @@
+What does AI stand for?;Artificial Intelligence,Automated Interface,Advanced Internet,Artificial Integration;1
+Who is considered the father of AI?;Alan Turing,John McCarthy,Geoffrey Hinton,Yann LeCun;2
+Which programming language is commonly used in AI development?;Python,JavaScript,Ruby,C#;1
+What is the main goal of machine learning?;To write specific instructions for tasks,To extract patterns from data,To generate random outputs,To create viruses;2
+Which algorithm is used for classification tasks?;K-Means,Linear Regression,Support Vector Machine,Gradient Descent;3
+What is the term for a model that performs well on training data but poorly on new data?;Underfitting,Overfitting,Bias,Variance;2
+What is the full form of NLP in AI?;Neural Learning Protocol,Natural Language Processing,Network Language Parser,Node Learning Process;2
+Which AI concept refers to systems that can improve themselves without explicit programming?;Supervised Learning,Reinforcement Learning,Unsupervised Learning,Machine Learning;4
+What is the purpose of a neural network in AI?;To mimic the human brain,To store large data,To improve speed,To reduce energy consumption;1
+What does the term "deep" in deep learning refer to?;The size of the dataset,The complexity of computations,The number of layers in the neural network,The amount of memory required;3
